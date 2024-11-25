@@ -1,0 +1,43 @@
+.fundo{
+    background-color:#011724 ;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+}
+
+.letras{
+    color:  #FFFF;
+}
+
+.caixa-branca{
+    background-color: #FFFF;
+    padding: 3px;
+    margin-left: 1px; 
+    width: 50%;
+    height: 500px; 
+    border: #06FAFA solid 3px;
+    border-radius: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#icone{
+    width: 282px;
+    height: 269px;
+    border-radius: 50%;
+    margin-top: 5px;
+    box-shadow: 0px 5px 5px rgb(87, 85, 85)
+}
+
+.h2{
+    color: #06FAFA;
+}
+.letra{
+    color: black;
+    font-size: larger;
+}
+
+.color{
+    color: #0008b0;
+}
